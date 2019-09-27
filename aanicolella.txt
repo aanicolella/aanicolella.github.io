@@ -1,11 +1,9 @@
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cd aanicolella/<!-- kjsdfhkjdhsfkjdshfkj -->AboutMe
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->aanicolella.txt<br/><br/>
-
-
 Hi, my name's Ally! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I'm a Senior at Worcester Polytechnic Institute (WPI) studying Bioinformatics & Computational Biology, double-minoring in Computer Science and Data Science. I'm passionate about developing, maintaining, and connecting biologists with tools that help them to be successful.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>I have a background in pipeline development and single cell sequencing analysis, among other things. You can check out my previous work experience <a href="link"> here</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>You can also learn more about some of my school projects and relevent courses <a href="link1"> here </a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>You can also learn more about some of my school projects and relevent courses <a href="link1"> here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> Still want to learn more? Check out my additional profiles below: <br> <a href="link1">LinkedIn</a> <br> <a href="link2">GitHub</a></p>
 
 You can also reach me directly at <a href="aanicolella@wpi.edu">aanicolella@wpi.edu</a>.
