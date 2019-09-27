@@ -9,3 +9,4 @@ Hi, my name's Ally! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 You can also reach me directly at <a href="aanicolella@wpi.edu">aanicolella@wpi.edu</a>.
 
 <p>Thanks for stopping by!</p>
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span>exit
