@@ -6,7 +6,7 @@ I'm a Senior at Worcester Polytechnic Institute (WPI) studying Bioinformatics & 
 
 I have a background in pipeline development and single cell sequencing analysis, among other things. You can check out my previous work experience <a href="pastEmployment.html"> here</a>.<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
-You can also learn more about some of my school projects and relevent courses <a href="link1"> here</a>.<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+You can also learn more about some of my school projects and relevant courses <a href="link1"> here</a>.<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
  Still want to learn more? Check out my additional profiles below: <br> <a href="link1">LinkedIn</a> <br> <a href="link2">GitHub</a>
 
