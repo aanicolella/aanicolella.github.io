@@ -1,0 +1,10 @@
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cd pastEmployment
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->takedaOncology.txt<br/><br/>
+
+Molecular Genomics Intern <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Takeda Oncology, May-Aug 2019
+[+]  Conducted analyses on public and private (in-house and 
+                external collaboration) scRNA-seq datasets
+[+]  Expanded functionality of the current scRNA-seq analysis 
+                workflow and developed web applications for data visualization using 
+                a version control system (Bitbucket, Jira, Confluence)
