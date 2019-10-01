@@ -13,5 +13,5 @@ You can also learn more about some of my school projects and relevant courses <a
 You can also reach me directly at <a href="aanicolella@wpi.edu">aanicolella@wpi.edu</a>.
 
 Thanks for stopping by!
-<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> exit <br></br>
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> exit
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span><br></br>
