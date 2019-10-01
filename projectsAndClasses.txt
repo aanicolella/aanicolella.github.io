@@ -18,4 +18,4 @@ Computer Science
 Biology
 
 [+] Immunology [+] Advanced Cell Biology [+] Medical Microbiology [+] Virology [+] Molecular Biology [+] Cell Biology [+] Enzyme and Protein Purification Lab [+] Searching for Antibiotics in Soil Lab <br></br>
-<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span><a href="https://aanicolella.github.io/"> cd ..</a>
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span><a href="https://aanicolella.github.io/"> cd ~</a>
