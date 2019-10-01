@@ -17,5 +17,5 @@ Computer Science
 [+] Machine Learning [+] Human Computer Interaction [+] Database Systems [+] Algorithms [+] Discrete Mathematics [+] Object-Oriented Programming Concepts [+] Introduction to Programming<br></br>
 Biology
 
-[+] Immunology [+] Advanced Cell Biology [+] Medical Microbiology [+] Virology [+] Molecular Biology [+] Cell Biology [+] Enzyme and Protein Purification Lab [+] Searching for Antibiotics in Soil Lab<br></br>
-<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span><a href="index.html"> cd ..</a>
+[+] Immunology [+] Advanced Cell Biology [+] Medical Microbiology [+] Virology [+] Molecular Biology [+] Cell Biology [+] Enzyme and Protein Purification Lab [+] Searching for Antibiotics in Soil Lab <br></br>
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span><a href="https://aanicolella.github.io/"> cd ..</a>
