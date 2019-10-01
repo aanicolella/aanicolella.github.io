@@ -2,14 +2,11 @@
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->projects.txt<br/><br/>
 Major Qualifying Project: Understanding DNA Damage Repair in Cancerous Cells Using Deep Learning
 
-[+]  Developing software with another student that tracks the dynamics of the recruitment and dispersion
-     of DNA damage repair proteins through image processing of microscopy videos<br></br>
+[+]  Developing software with another student that tracks the dynamics of the recruitment and dispersion of DNA damage repair proteins through image processing of microscopy videos<br></br>
 Predicting Criteria for Successful Kaggle Datasets
 
-[+]  Generated a predictive model, utilizing a decision tree schematic, that helps developers to predict 
-     the likelihood of their dataset being featured on Kaggle
-[+]  Presented findings as a four-person group to peers, published code on GitHub, and displayed results 
-     on a website<br></br>
+[+]  Generated a predictive model, utilizing a decision tree schematic, that helps developers to predict the likelihood of their dataset being featured on Kaggle
+[+]  Presented findings as a four-person group to peers, published code on GitHub, and displayed results on a website<br></br>
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cd ../relevantCourses
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->courses.txt<br/><br/>
 Bioinformatics & Computational Biology
