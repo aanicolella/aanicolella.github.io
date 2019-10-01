@@ -14,4 +14,4 @@ You can also reach me directly at <a href="aanicolella@wpi.edu">aanicolella@wpi.
 
 Thanks for stopping by! <br></b>
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> exit
-<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span>
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> 

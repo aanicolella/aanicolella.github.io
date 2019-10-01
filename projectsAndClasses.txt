@@ -11,16 +11,11 @@ Predicting Criteria for Successful Kaggle Datasets
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->courses.txt<br/><br/>
 Bioinformatics & Computational Biology
 
-[+] Biovisualization [+] Biological & Biomedical Database Mining [+] Introduction to Data Science
-[+] Simulation in Biology [+] Phage Hunters Genome Annotation [+] Bioinformatics (Senior level)
-[+] Exploring Bioinformatics<br></br>
+[+] Biovisualization [+] Biological & Biomedical Database Mining [+] Introduction to Data Science [+] Simulation in Biology [+] Phage Hunters Genome Annotation [+] Bioinformatics (Senior level) [+] Exploring Bioinformatics<br></br>
 Computer Science
 
-[+] Machine Learning [+] Human Computer Interaction [+] Database Systems
-[+] Algorithms [+] Discrete Mathematics [+] Object-Oriented Programming Concepts
-[+] Introduction to Programming<br></br>
+[+] Machine Learning [+] Human Computer Interaction [+] Database Systems [+] Algorithms [+] Discrete Mathematics [+] Object-Oriented Programming Concepts [+] Introduction to Programming<br></br>
 Biology
 
-[+] Immunology [+] Advanced Cell Biology [+] Medical Microbiology
-[+] Virology [+] Molecular Biology [+] Cell Biology
-[+] Enzyme and Protein Purification Lab [+] Searching for Antibiotics in Soil Lab
+[+] Immunology [+] Advanced Cell Biology [+] Medical Microbiology [+] Virology [+] Molecular Biology [+] Cell Biology [+] Enzyme and Protein Purification Lab [+] Searching for Antibiotics in Soil Lab<br></br>
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span><a href="index.html"> cd ..</a>
