@@ -1,2 +1,2 @@
 # aanicolella.github.io
-Portfolio website
+Personal website/virtual resume, developed to mimic my favorite environment (the terminal).
