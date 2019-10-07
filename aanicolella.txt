@@ -2,7 +2,7 @@
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->aanicolella.txt<br/><br/>
 Hi, my name's Ally! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-I'm a Senior at Worcester Polytechnic Institute (WPI) studying Bioinformatics & Computational Biology, double-minoring in Computer Science and Data Science. I'm passionate about developing and maintaining tools that allow users to store, transfer, and analyze their data efficiently and securely. <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+I'm a Senior at Worcester Polytechnic Institute (WPI) studying Bioinformatics & Computational Biology, double-minoring in Computer Science and Data Science. I'm passionate about developing and maintaining tools that allow users to store, transfer, and analyze their data efficiently. <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 I have a background in pipeline development and single cell sequencing analysis, among other things. You can check out my previous work experience <a href="pastEmployment.html"> here</a>.<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
