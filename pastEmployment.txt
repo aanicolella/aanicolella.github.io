@@ -1,4 +1,10 @@
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cd ../pastEmployment
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->broadInstitute.txt<br/><br/>
+Associate Computational Biologist <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Broad Institute of MIT and Harvard, July 2020-Present
+    [+]  Processed NGS data (RNA-seq & snRNA-seq) from raw sequencing reads through downstream analysis 
+    [+]  Established a GitHub codebase for common analyses and wrote training manuals for teaching colleagues how to run their own analysis<br></br>
+
 <span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->takedaOncology.txt<br/><br/>
 Molecular Genomics Intern <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Takeda Oncology, May-Aug 2019
